@@ -1,0 +1,1 @@
+﻿select * from utilisateur where prenom ilike '%has%';
